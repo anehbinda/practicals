@@ -1,0 +1,3 @@
+#locally Ignore .bak files
+
+*.bak
